@@ -66,8 +66,8 @@ db.password="YOUR_PASSWORD"
 
 1. **Clone the Repository:**
   ```bash
-  git clone https://github.com/aditya-bansal-7/library-management-system
-  cd library-management-system
+  git clone https://github.com/Nandinisingh005/Nandinisingh005-library-management-system.git
+  cd library-management-system-main
   ```
 2. **Database Setup:** Follow the MySQL Database Setup instructions above.
 3. Install Dependencies: Ensure all Maven dependencies are installed:
